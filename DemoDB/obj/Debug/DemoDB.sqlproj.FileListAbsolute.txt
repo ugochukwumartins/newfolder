@@ -1,0 +1,10 @@
+C:\Users\samson\source\repos\MvcDemo\DemoDB\bin\Debug\DemoDB.dacpac
+C:\Users\samson\source\repos\MvcDemo\DemoDB\bin\Debug\DemoDB.dll
+C:\Users\samson\source\repos\MvcDemo\DemoDB\bin\Debug\DemoDB.pdb
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\DemoDB.sqlprojAssemblyReference.cache
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\Model.xml
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\refactor.xml
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\postdeploy.sql
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\predeploy.sql
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\DemoDB.dll
+C:\Users\samson\source\repos\MvcDemo\DemoDB\obj\Debug\DemoDB.pdb

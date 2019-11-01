@@ -1,0 +1,8 @@
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\bin\Debug\Dapper.dll
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\bin\Debug\Dapper.xml
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\samson\source\repos\MvcDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
